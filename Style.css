@@ -1,0 +1,49 @@
+#header{
+  color: red;
+  text-align: center;
+  #background-image: url("fdc.jpeg");
+  background-position: center;
+  padding: 10px;
+  margin-bottom: 60px
+
+}
+
+div.player-info{
+  background: #E8E9f0;
+  border: 3px solid black;
+  width: 500px;
+  height: 200px;
+  overflow: scroll;
+
+}
+
+body{
+
+}
+
+#shakib{
+  margin-top: 60px;
+}
+
+img{
+  width: 200px;
+  height: auto;
+}
+
+#header p{
+  color: blue;
+}
+
+a:link {
+  color: red;
+}
+a : visited {
+  color: white;
+}
+a :hover{
+  color: black;
+}
+
+h3, h1 {
+  font-family: Vrinda, sans-serif;
+}
